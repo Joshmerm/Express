@@ -1,0 +1,21 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "final-project",
+  "main": "server.js",
+  "scripts": {
+    "windows": ".\\node_modules\\.bin\\nodemon server.js",
+    "start": "./node_modules/.bin/nodemon server.js"
+  },
+  "author": "Josh Mermelstein",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.5.0",
+    "api": "file:../api"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

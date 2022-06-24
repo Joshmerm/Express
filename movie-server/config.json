@@ -1,0 +1,6 @@
+{
+    "cluster": "cluster0.kp1t8.mongodb.net",
+    "db_name": "MovieApplication",
+    "username": "dbAdmin",
+    "password": "password123!"
+}
